@@ -1,2 +1,2 @@
-# Tableupractica
+# Tableu practica
 Practica Tableu
